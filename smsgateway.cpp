@@ -1,14 +1,10 @@
-#include "smsgateway.h"
+#include "ismsgateway.h"
 
 
 
-smsgateway::smsgateway(QObject *parent) : QObject(parent)
-{
 
-}
 
-smsgateway::~smsgateway()
-{
 
-}
+
+
 

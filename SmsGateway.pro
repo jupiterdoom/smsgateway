@@ -17,7 +17,6 @@ SOURCES += main.cpp\
     smsgateway.cpp
 
 HEADERS  += mainwindows.h \
-    ismsgateway.h \
-    smsgateway.h
+    ismsgateway.h
 
 FORMS    += mainwindows.ui
